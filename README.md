@@ -1,4 +1,4 @@
-
+# This project is vastly outdated.
 
 # Valheim Server Settings
 A simple HarmonyX Mod aimed at providing the option to change hardcoded server settings in Valheim
